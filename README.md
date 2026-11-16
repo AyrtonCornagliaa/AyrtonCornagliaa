@@ -88,19 +88,6 @@ Web application for managing an automotive repair shop.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyrtonCornagliaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonCornagliaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyrtonCornagliaa&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
