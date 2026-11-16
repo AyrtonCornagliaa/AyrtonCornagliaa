@@ -7,11 +7,7 @@
   Computer Engineering Student | Software Development
 </h3>
 
-<p align="center">
-  <a href="https://github.com/AyrtonCornagliaa">
-    <img src="https://komarev.com/ghpvc/?username=AyrtonCornagliaa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Java+Developer;Software+Development;Backend+Development+Enthusiast;Always+Learning+New+Technologies&center=true&width=500&height=45" />
